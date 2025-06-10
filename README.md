@@ -47,7 +47,7 @@ Analyzed 130K+ entries to uncover regional fan bias. Ranked **2nd out of 111 tea
 ## 📫 Connect With Me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/keerthi-anand-ka/)  
-🔗 [Portfolio](keerthianand2023.wixsite.com/profile)  
+🔗 [Portfolio](https://keerthianand2023.wixsite.com/profile)
 🔗 [Tableau Dashboards](https://public.tableau.com/app/profile/subbaiah.veeramani/viz/CCACDashboard-TeamDataCurry/1_EDAKPIs) 
 
 ---
